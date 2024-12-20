@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.PositionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-20T20:35:27" hostname="DESKTOP-B35OU5T" time="0.014">
+  <properties/>
+  <testcase name="testPositionInitialization()" classname="org.example.PositionTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

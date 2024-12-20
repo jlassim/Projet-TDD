@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TicTacToeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-12-20T20:35:27" hostname="DESKTOP-B35OU5T" time="0.01">
+  <properties/>
+  <testcase name="testWinningCondition()" classname="org.example.TicTacToeTest" time="0.001"/>
+  <testcase name="testSwitchPlayers()" classname="org.example.TicTacToeTest" time="0.001"/>
+  <testcase name="testPlacePieceOnOccupiedSpace()" classname="org.example.TicTacToeTest" time="0.002"/>
+  <testcase name="testDrawCondition()" classname="org.example.TicTacToeTest" time="0.002"/>
+  <testcase name="testPlacePieceOutOfBoundsX()" classname="org.example.TicTacToeTest" time="0.001"/>
+  <testcase name="testPlacePieceOutOfBoundsY()" classname="org.example.TicTacToeTest" time="0.001"/>
+  <system-out><![CDATA[Data saved: Turn: 1, X: 0, Y: 0, Player: X
+Data saved: Turn: 2, X: 1, Y: 0, Player: O
+Data saved: Turn: 3, X: 0, Y: 1, Player: X
+Data saved: Turn: 4, X: 1, Y: 1, Player: O
+Data saved: Turn: 5, X: 0, Y: 2, Player: X
+Data saved: Turn: 1, X: 0, Y: 0, Player: X
+Data saved: Turn: 1, X: 1, Y: 1, Player: X
+Data saved: Turn: 1, X: 0, Y: 0, Player: X
+Data saved: Turn: 2, X: 0, Y: 1, Player: O
+Data saved: Turn: 3, X: 0, Y: 2, Player: X
+Data saved: Turn: 4, X: 1, Y: 1, Player: O
+Data saved: Turn: 5, X: 1, Y: 0, Player: X
+Data saved: Turn: 6, X: 1, Y: 2, Player: O
+Data saved: Turn: 7, X: 2, Y: 1, Player: X
+Data saved: Turn: 8, X: 2, Y: 0, Player: O
+Data saved: Turn: 9, X: 2, Y: 2, Player: X
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
