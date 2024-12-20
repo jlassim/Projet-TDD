@@ -1,6 +1,6 @@
 # Rapport de projet : Développement du jeu Tic-Tac-Toe avec la méthode de développement dirigé par les tests (TDD)
 ## Partie I : Développement du jeu Tic-Tac-Toe
-1. ### Exigence 1 : Placer les pièces
+### 1. Exigence 1 : Placer les pièces
 Le premier objectif est de permettre aux joueurs de placer des pièces sur la grille du jeu. Cette fonctionnalité peut être divisée en plusieurs tests :
 
 Placer un pion hors de l'axe des X : Si le joueur tente de placer un pion en dehors de la grille, une exception de type RuntimeException doit être levée.
